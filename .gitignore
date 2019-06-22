@@ -1,0 +1,4 @@
+*[log]
+*.log
+*log
+/home/msaleh/Test/*.log
